@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DakshMakhija
-- 👀 I’m interested in ... AI &ML
-- 🌱 I’m currently learning ...android developement
-- 💞️ I’m looking to collaborate on ... Python project
-- 📫 How to reach me ... Email - dakshmakhija984@gmail.com
+- 👀 I’m interested in ... Development
+- 🌱 I’m currently learning ... DSA
+- 💞️ I’m looking to collaborate on ... Flutter Project
+- 📫 How to reach me ... Email - dakshmakhija978@gmail.com
 
 <!---
 DakshMakhija/DakshMakhija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
