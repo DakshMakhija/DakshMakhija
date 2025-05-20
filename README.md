@@ -14,7 +14,7 @@ DBS Technology Services India Pvt. Ltd. (Hyderabad)
 
 ## 🛠️ Skills
 - **Languages & Tools**: Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, Excel  
-- **Concepts**: Data Analysis, EDA, Machine Learning (Supervised & Unsupervised), DBMS  
+- **Concepts**: Data Analysis, EDA, ETL,Machine Learning (Supervised & Unsupervised), DBMS  
 - **Cloud**: Basic AWS Services  
 
 ## 📚 Projects
