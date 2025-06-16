@@ -2,7 +2,7 @@
 
 🎯 IT Operations Data Analyst | Data Enthusiast | Power BI | Python | SQL
 
-I'm a data-driven professional with experience in analyzing IT support operations, building dashboards,
+I'm a data-driven professional with experience in analyzing IT operations data, building dashboards,
 and implementing preventive strategies that improve efficiency.
 Passionate about turning data into insights that drive smart decisions.
 
