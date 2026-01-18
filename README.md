@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Daksh Makhija
 
-🎯 IT Operations Data Analyst | Data Enthusiast | Power BI | Python | SQL| GCP
+🎯 Data Analyst | Data Enthusiast | Power BI | Python | SQL| GCP
 
 I'm a data-driven professional with experience in analyzing IT operations data, building dashboards,
 and implementing preventive strategies that improve efficiency.
 Passionate about turning data into insights that drive smart decisions.
 
 ## 💼 Current Role
-**IT Operations Data Analyst**  
+**Data Analyst**  
 DBS Technology Services India Pvt. Ltd. (Hyderabad)  
 📊 Reduced repeat incidents by 25% and improved workflow efficiency by 35%  
 📈 Built Power BI dashboards and delivered weekly reports for leadership  
